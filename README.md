@@ -1,2 +1,2 @@
 # Web-responsive-design-course
-HTML, HTLML5, CSS
+Learn to code HTML, HTLML5, CSS
